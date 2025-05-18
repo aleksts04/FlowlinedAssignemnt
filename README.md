@@ -28,11 +28,6 @@ This project is a lightweight AI-driven text utility microservice built with Fas
 
 1. Clone the repository:
 
-   ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
-   ```
-
 2. Create a `.env` file in the root of the project:
 
    ```
