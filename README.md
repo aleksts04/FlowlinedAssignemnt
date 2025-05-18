@@ -40,15 +40,6 @@ This project is a lightweight AI-driven text utility microservice built with Fas
    docker compose up --build
    ```
 
-### Running Tests
-
-To run all unit and integration tests:
-
-```bash
-pip install -r requirements.txt
-pytest
-```
-
 ## API Endpoints
 
 - `POST /api/summarize`: Accepts a block of text and returns a ~30-word summary.
